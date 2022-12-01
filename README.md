@@ -1,4 +1,4 @@
-# [PROJECT NAME]
+# Palmer Penguins
 
 ## Project organization
 - PG = project-generated
