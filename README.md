@@ -12,6 +12,7 @@ This is my test repo for repco
 ├── CITATION.md
 ├── LICENSE.md
 ├── README.md
+├── tutorial.md
 ├── requirements.txt
 ├── bin                <- Compiled and external code, ignored by git (PG)
 │   └── external       <- Any external source code, ignored by git (RO)
@@ -29,7 +30,9 @@ This is my test repo for repco
 └── src                <- Source code for this project (HW)
 
 ```
+## Demo 
 
+If you would like a demo or example of running this script,check out the [tutorial page](https://github.com/nehamoopen/palmer-penguins/tutorial.md)
 
 ## License
 
